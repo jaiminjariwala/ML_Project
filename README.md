@@ -3,7 +3,7 @@
 ## How to start?
 1. Create a folder and open VS Code
 2. Open terminal and create Environment:
-    - ``` conda create -p venv python==3.12.2 ``` <br>
+    - ``` conda create -p venv python==3.11 ``` <br>
     - ``` conda activate given_file path ```
 3. Create `README.md` file, `requirements.txt` file, `setup.py` file
 4. Open Github repo, create new file, type `.gitignore` and select template `Python` and commit changes.
